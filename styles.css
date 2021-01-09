@@ -1,0 +1,24 @@
+
+.links {
+  color:#e11900;
+  text-decoration:none;
+}
+
+.links:hover {
+  color:#ff7b00;
+  text-decoration:none;
+}
+
+.linksb {
+  color:white;
+  text-decoration:none;
+}
+
+.linksb:hover {
+  color:#e11900;
+  text-decoration:none;
+}
+
+.bigg {
+  font-size:20px;
+}
